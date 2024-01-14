@@ -1,0 +1,16 @@
+{
+    "name": "katalyn4me/correos",
+    "description": "Package generated from preregistroenvios.wsdl.xml using wsdltophp/packagegenerator",
+    "require": {
+        "php": ">=7.4",
+        "ext-dom": "*",
+        "ext-mbstring": "*",
+        "ext-soap": "*",
+        "wsdltophp/packagebase": "~5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "./src/"
+        }
+    }
+}
