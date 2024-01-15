@@ -5,8 +5,7 @@
         "php": ">=7.4",
         "ext-dom": "*",
         "ext-mbstring": "*",
-        "ext-soap": "*",
-        "wsdltophp/packagebase": "~5.0"
+        "ext-soap": "*"
     },
     "autoload": {
         "psr-4": {
